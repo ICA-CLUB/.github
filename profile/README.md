@@ -1,7 +1,7 @@
 # 🌟 Innovation Collaboration Action (ICA)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Innovation Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Welcome+to+ICA!">
 </p>
 
 <p align="center">
