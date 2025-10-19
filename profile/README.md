@@ -1,8 +1,8 @@
-# 🌟 Innovation Collaboration Action (ICA)
+<h1 align="center"> 🌟 Innovation Collaboration Action (ICA)</p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Welcome+to+ICA!">
-</p>
+</p> -->
 
 <p align="center">
   <b>🚀 A space where ideas take flight, skills sharpen, and future leaders are built.</b>
